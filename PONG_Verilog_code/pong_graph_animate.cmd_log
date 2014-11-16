@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/verilog/jungle_pong/pong_graph_animate.xst" -ofn "E:/verilog/jungle_pong/pong_graph_animate.syr" 

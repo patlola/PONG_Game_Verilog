@@ -1,0 +1,3 @@
+verilog work "../colors/spart1200e/vga_sync.v"
+verilog work "../assasin/pong_graph_animate.v"
+verilog work "../../pong.v"

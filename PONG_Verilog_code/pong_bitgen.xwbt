@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\verilog\jungle_pong\pong.ncd
+OUTFILE=E:\verilog\jungle_pong\pong.bit
+FAMILY=Spartan3E
+PART=xc3s1200e-4fg320
+WORKINGDIR=E:\verilog\jungle_pong
+LICENSE=WebPack
+USER_INFO=__0_0_0

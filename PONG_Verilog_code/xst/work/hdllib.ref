@@ -1,0 +1,3 @@
+MO vga_sync NULL ../colors/spart1200e/vga_sync.v vlg62/vga__sync.bin 1384451818
+MO pong NULL ../../pong.v vlg14/pong.bin 1384451818
+MO pong_graph_animate NULL ../assasin/pong_graph_animate.v vlg07/pong__graph__animate.bin 1384451818

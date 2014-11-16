@@ -1,0 +1,9 @@
+NET "clk" LOC = B8;
+NET "reset" LOC = B18;
+NET "btn[0]" LOC = K14;
+NET "btn[1]" LOC = E18;
+NET "hsync" LOC = T4;
+NET "vsync" LOC = U3;
+NET "rgb[0]" LOC = R9;
+NET "rgb[1]" LOC = N8;
+NET "rgb[2]" LOC = U5;

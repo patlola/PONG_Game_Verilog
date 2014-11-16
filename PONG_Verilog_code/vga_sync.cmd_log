@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/verilog/jungle_pong/vga_sync.xst" -ofn "E:/verilog/jungle_pong/vga_sync.syr" 
